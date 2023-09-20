@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-B-H-I-J-I-T-H
 - 👀 I’m interested in Digital Marketing & Web Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on various Python projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on various Web Development projects
 - 📫 How to reach me  - abhjith4nair@gmail.com
 
 <!---
